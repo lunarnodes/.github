@@ -1,3 +1,5 @@
+![Lunar Nodes](https://cdn.discordapp.com/attachments/1127715220110987274/1148591697522086018/banner.png?ex=66ab7be0&is=66aa2a60&hm=50d1e1fd713a64e015d77b2abf6b9eb384e2e40b0131901de29dfc2814a01645&)
+
 # 🌙  Lunar Nodes
 
 Lunar Nodes is a hosting service dedicated to Discord bots. With Lunar Nodes, you can deploy your Discord bot quickly and easily, with minimal configuration required. Our hosting platform is designed to be reliable, scalable, and affordable, making it the perfect choice for bot developers of all sizes.
